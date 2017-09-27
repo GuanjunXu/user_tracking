@@ -1,0 +1,9 @@
+*****Excel data*****:
+{u'Content': u'', u'Ergodic': u'Y', u'Depth_2': u'records', u'Ver': 303.0, u'Title': u'您周围的人正在使用', u'VerifyKV_1': u'template=37;info;number;content;image', u'Summary': u'新应用推荐 - 细项', u'Priority': u'P0', u'Spec_K': u'action:_click_rkeys_:gid,dt,home_page_module_id,template,card_id,sub_module,reid,bucket,area', u'VerifyKV_2': u'params:{template=37;dt;gid}', u'Depth_1': u'data:home_page_module_order', u'Position': u'homepage', u'CaseNo': 14.0}
+
+
+Pass
+
+
+*****Json data*****:
+{u'info': u'', u'image': u'http://i1.letvimg.com/lc03_iptv/201708/14/11/27/tmp97c72380-3b09-4e55-bca6-08fe6586c276256.png', u'number': u'3.0', u'content': u'58同城~神奇的网站', u'params': {u'dt': u'5', u'gid': u'app_cms_软件', u'le_mobile_app_id': u'-1', u'template': u'37'}, u'template': 37, u'action': u'pano://comp?package=com.letv.app.appstore&cls_name=com.letv.app.appstore.appmodule.details.DetailsActivity&detailFromPage=PanoSearch&packageName=软件&_click_rkeys_=gid,dt,home_page_module_id,template,card_id,sub_module,reid,bucket,area'}
